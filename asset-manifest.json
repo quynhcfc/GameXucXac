@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GameXucXac/static/css/main.f576ea10.css",
+    "main.js": "/GameXucXac/static/js/main.703c7369.js",
+    "static/js/787.dd70f874.chunk.js": "/GameXucXac/static/js/787.dd70f874.chunk.js",
+    "static/media/Pony.ttf": "/GameXucXac/static/media/Pony.99ddd1e5ee531d1eb8a2.ttf",
+    "static/media/bgGame.png": "/GameXucXac/static/media/bgGame.e49605597dae0136a330.png",
+    "index.html": "/GameXucXac/index.html",
+    "main.f576ea10.css.map": "/GameXucXac/static/css/main.f576ea10.css.map",
+    "main.703c7369.js.map": "/GameXucXac/static/js/main.703c7369.js.map",
+    "787.dd70f874.chunk.js.map": "/GameXucXac/static/js/787.dd70f874.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f576ea10.css",
+    "static/js/main.703c7369.js"
+  ]
+}
