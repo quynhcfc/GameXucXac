@@ -53,8 +53,7 @@ export const xucXacReducer = (state = initialState, { type, payload }) => {
     }
 
     case RESET_GAME: {
-      state = initialState;
-      return { ...state };
+      return { ...initialState };
     }
 
     default:

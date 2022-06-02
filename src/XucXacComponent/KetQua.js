@@ -12,7 +12,7 @@ class KetQua extends Component {
     let { luaChon, soBanThang, soLuotChoi } = this.props;
     return (
       <div className="container">
-        {luaChon && <h4>Kết quả:</h4>}
+        {/* {luaChon && <h4>Kết quả:</h4>} */}
         {luaChon && (
           <h3 className="text-success" style={fontSize}>
             Bạn đã chọn: {luaChon}
@@ -62,7 +62,7 @@ let mapDispatchToProps = (dispatch) => {
       dispatch(playGameAction());
     },
     handleReset: () => {
-      dispatch(resetGameAction);
+      dispatch(resetGameAction());
     },
   };
 };
